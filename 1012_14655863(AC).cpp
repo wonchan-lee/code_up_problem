@@ -7,6 +7,6 @@ int main(){
     // float 소수점 6자리로 설정
     cout << fixed;
     cout.precision(6);
-    // 이것도 데이터 출력 때마다 갱신해야하나?
+    // 이건 계속 소수점 6자리로 출력
     cout<<x;
 }
